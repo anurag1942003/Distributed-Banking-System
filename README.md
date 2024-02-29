@@ -1,5 +1,6 @@
 # Distributed Multithreaded Banking System
 ## Distributed Systems Lab Mini Project 2024
+###The Banking Management System is a comprehensive software solution designed to streamline and automate various banking operations, catering to both administrators and customers. This system provides a user-friendly interface for managing accounts, transactions, and other banking functionalities efficiently.
 
 
 
