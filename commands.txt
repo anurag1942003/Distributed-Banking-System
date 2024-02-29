@@ -1,0 +1,4 @@
+.\env\Scripts\activate ; cd .\server\ ; python main.py
+.\env\Scripts\activate ; cd .\server\ ; python admin.py
+.\env\Scripts\activate ; cd .\server\ ; python customer.py
+.\env\Scripts\activate ; cd .\client\ ; python main.py
