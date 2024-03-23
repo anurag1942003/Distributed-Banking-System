@@ -11,7 +11,7 @@ import pickle
 SERVER_IP = '127.0.0.1'
 SERVER_PORT = 1069
 IP = '127.0.0.1'
-PORT = 1071
+
 
 
 def connectToServer():
